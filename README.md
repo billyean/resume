@@ -1,4 +1,2 @@
 
-![Haibo Yan's Resume](https://github.com/billyean/resume/raw/master/Haibo_Yan_Resume.jpg)
-
-
+![Haibo Yan's Resume](Haibo_Yan_Resume-1.jpg)
